@@ -4,7 +4,7 @@
 
 Proste narzędzie konsolowe napisane w Pythonie, które pobiera aktualne dane pogodowe z API MET Norway i wyświetla czytelną prognozę na 10 godzin wraz z kolorowym formatowaniem temperatury w terminalu.
 
-🎥 [Obejrzyj na YouTube ↗](https://youtu.be/29mKGsPk6TE)
+🎥 [Obejrzyj na YouTube już 15 grudnia 2025 ↗](https://youtu.be/29mKGsPk6TE)
 
 ## Funkcje
 
@@ -84,7 +84,7 @@ Szczegóły znajdziesz w pliku `LICENSE`.
 
 A simple command-line tool written in Python that fetches real-time weather data using the MET Norway API and displays a clean 10-hour forecast with colored console output.
 
-🎥 [Watch on YouTube ↗](https://youtu.be/29mKGsPk6TE)
+🎥 [Watch on YouTube on December 15, 2025 ↗](https://youtu.be/29mKGsPk6TE)
 
 
 ## Features
