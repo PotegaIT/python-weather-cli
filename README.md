@@ -14,8 +14,6 @@ Proste narzędzie konsolowe napisane w Pythonie, które pobiera aktualne dane po
 - 🇵🇱 Polskie opisy pogody (tłumaczenie symboli)
 - 🛠 Proste i lekkie — brak zewnętrznych zależności poza requests
 
----
-
 ## Instalacja
 
 Sklonuj repozytorium:
@@ -31,8 +29,6 @@ Zainstaluj zależności:
 pip install requests
 ```
 
----
-
 ## Użycie
 
 Uruchom główny skrypt:
@@ -45,8 +41,6 @@ Po uruchomieniu:
 
 * Wpisz nazwę miasta (np. Oslo, Warszawa, London)
 * Lub wpisz exit, aby zakończyć działanie programu
-
----
 
 ## Przykładowy wynik
 
@@ -96,8 +90,6 @@ A simple command-line tool written in Python that fetches real-time weather data
 - 🇵🇱 Polish weather descriptions (symbol translation)
 - 🛠 Simple and lightweight — no external packages except `requests`
 
----
-
 ## Installation
 
 Clone the repository:
@@ -112,7 +104,6 @@ Install dependencies:
 ```bash
 pip install requests
 ```
----
 
 ## Usage
 
@@ -126,7 +117,6 @@ When prompted:
 * Enter the city name (e.g. Oslo, Warszawa, London)
 * Or type exit to close the program
 
----
 
 ## Example Output
 
