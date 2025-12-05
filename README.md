@@ -75,6 +75,7 @@ Szczegóły znajdziesz w pliku `LICENSE`.
 * YouTube: [@PotegaIT](https://www.youtube.com/@PotegaIT)
 
    
+   
 ## 🇬🇧 English version
 # python-weather-cli
 ---
