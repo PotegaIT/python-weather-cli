@@ -41,8 +41,8 @@ python main.py
 
 Po uruchomieniu:
 
-* Wpisz nazwę miasta (np. Oslo, Warszawa, London)
-* Lub wpisz exit, aby zakończyć działanie programu
+* Wpisz nazwę miasta (np. `Oslo`, `Warszawa`, `London`)
+* Lub wpisz `exit`, aby zakończyć działanie programu
 
 ## Przykładowy wynik
 
