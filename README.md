@@ -101,7 +101,7 @@ A simple command-line tool written in Python that fetches real-time weather data
 Clone the repository:
 
 ```bash
-git clone https://github.com/<twoje-konto>/python-weather-cli.git
+git clone https://github.com/<your-account>/python-weather-cli.git
 cd python-weather-cli
 ```
 
@@ -120,8 +120,8 @@ python main.py
 ```
 When prompted:
 
-* Enter the city name (e.g. Oslo, Warszawa, London)
-* Or type exit to close the program
+* Enter the city name (e.g. `Oslo`, `Warszawa`, `London`)
+* Or type `exit` to close the program
 
 
 ## Example Output
