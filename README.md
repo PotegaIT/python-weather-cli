@@ -74,9 +74,9 @@ See the `LICENSE` file for details.
 
 Created by Greg — PotegaIT
 YouTube: [@PotegaIT](https://www.youtube.com/@PotegaIT)   
-   
 
-   
+---
+
 # 🇵🇱 python-weather-cli
 ---
 
